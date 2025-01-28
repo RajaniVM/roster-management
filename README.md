@@ -19,7 +19,7 @@ This Laravel application provides functionality to upload, parse, and store airl
 - **Laravel Framework**: 10.x
 - **Database**: SQLite
 
-### 2. Unzip the Solution
+### 2. Download and Unzip the Solution or clone the solution
 
 Unzip the Laravel project to your local machine.
 
@@ -91,7 +91,6 @@ The application will be available at `http://127.0.0.1:8000`.
 ```json
 {
     "message": "Roster processed successfully",
-    "events": [ /* Parsed event data */ ]
 }
 ```
 
